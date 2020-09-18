@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">SmoothieSub</string>
+
+
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="mobile">Mobile</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="button">Button</string>
+    <string name="as_a_shop">As a Shop</string>
+    <string name="alreadyAcc">"Already Have An Account? Login "</string>
+    //Login
+    <string name="txtLogin">Login</string>
+    <string name="login">Login</string>
+    <string name="alternative">Not joined us before? Create Account Here!</string>
+    <string name="feed">Feed</string>
+    <string name="btnprof">profile</string>
+    <string name="logout">Logout</string>
+    <string name="profile_picture">profile picture</string>
+    <string name="edit_account">Edit Account</string>
+    <string name="delete_account">Delete Account</string>
+
+
+</resources>
